@@ -11,3 +11,5 @@ VGGNet is great because it's simple and has great performance, coming in second 
 •	Define a new, final classification layer and apply it to a task of our choice!
 You can read more about transfer learning from the CS231n Stanford course notes.
 
+
+
